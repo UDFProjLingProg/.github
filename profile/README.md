@@ -1,6 +1,6 @@
 # **Sinacle** 👋
 
-O **Sinacle** o objetivo de auxiliar o aprendizado e o ensino de **Libras (Língua Brasileira de Sinais)**, com foco em termos técnicos e vocabulário de disciplinas específicas dos cursos acadêmicos, utilizando **imagens** como o principal recurso de busca.
+O **Sinacle** é um projeto que possui o objetivo de auxiliar o aprendizado e o ensino de **Libras (Língua Brasileira de Sinais)**, com foco em termos técnicos e vocabulário de disciplinas específicas dos cursos acadêmicos, utilizando **imagens** como o principal recurso de busca.
 
 
 ## **Site** 💻
