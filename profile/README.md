@@ -6,6 +6,10 @@ O **Sinacle** é um projeto que possui o objetivo de auxiliar o aprendizado e o 
 ## **Site** 💻
 **[Insira a URL do site aqui]**
 
+## Repositórios 📁
+
+- [Sinacle - Visualização de página](https://github.com/UDFProjLingProg/Signacle)
+- [Sinacle - API](https://github.com/UDFProjLingProg/signacle-api)
 
 ## **Descrição** 📄
 
