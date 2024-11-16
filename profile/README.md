@@ -1,6 +1,6 @@
 # **Sinacle** 👋
 
-O **Sinacle** tem como objetivo auxiliar no aprendizado e ensino de **Libras (Língua Brasileira de Sinais)**, com foco em termos técnicos e vocabulário de disciplinas específicas dos cursos acadêmicos, utilizando **imagens** como o principal recurso de busca.
+O **Sinacle** o objetivo de auxiliar o aprendizado e o ensino de **Libras (Língua Brasileira de Sinais)**, com foco em termos técnicos e vocabulário de disciplinas específicas dos cursos acadêmicos, utilizando **imagens** como o principal recurso de busca.
 
 
 ## **Site** 💻
@@ -39,7 +39,7 @@ Pontos importantes:
 ![Página de Pesquisa do Sinacle](https://github.com/user-attachments/assets/62b9d22c-0c5a-4a2a-8e93-24e060ba0751)
 
 
-## **Tecnologias Utilizadas no Front-End** 🪟
+## **Tecnologias Utilizadas no Front-End** 🎴
 
 As seguintes ferramentas foram usadas na construção do **Front-End**:
 - Linguagens e frameworks:
