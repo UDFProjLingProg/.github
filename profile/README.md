@@ -1,6 +1,6 @@
-# **Sinacle** 👋
+# **Signacle** 👋
 
-O **Sinacle** é um projeto que possui o objetivo de auxiliar o aprendizado e o ensino de **Libras (Língua Brasileira de Sinais)**, com foco em termos técnicos e vocabulário de disciplinas específicas dos cursos acadêmicos, utilizando **imagens** como o principal recurso de busca.
+O **Signacle** é um projeto que possui o objetivo de auxiliar o aprendizado e o ensino de **Libras (Língua Brasileira de Sinais)**, com foco em termos técnicos e vocabulário de disciplinas específicas dos cursos acadêmicos, utilizando **imagens** como o principal recurso de busca.
 
 
 ## **Site** 💻
@@ -8,39 +8,39 @@ O **Sinacle** é um projeto que possui o objetivo de auxiliar o aprendizado e o 
 
 ## Repositórios 📁
 
-- [Sinacle - Visualização de página](https://github.com/UDFProjLingProg/Signacle)
-- [Sinacle - API](https://github.com/UDFProjLingProg/signacle-api)
+- [Signacle - Visualização de página](https://github.com/UDFProjLingProg/Signacle)
+- [Signacle - API](https://github.com/UDFProjLingProg/signacle-api)
 
 ## **Descrição** 📄
 
-O **Sinacle** é um site que possui um motor de busca voltado para consulta e gerenciamento de sinais em Libras, com destaque para suas representações visuais. O projeto visa solucionar a dificuldade de acesso a recursos atualizáveis e específicos de sinais relacionados às disciplinas acadêmicas.
+O **Signacle** é um site que possui um motor de busca voltado para consulta e gerenciamento de sinais em Libras, com destaque para suas representações visuais. O projeto visa solucionar a dificuldade de acesso a recursos atualizáveis e específicos de sinais relacionados às disciplinas acadêmicas.
 
 Desenvolvido por alunos da disciplina **Projeto de Linguagem de Programação**, do curso de Ciência da Computação da **UDF**.
 
 
-## **Página Inicial do Sinacle** 🖥️
+## **Página Inicial do Signacle** 🖥️
 
 Pontos importantes:
 - Na primeira página, será exibido:
   - Um vídeo de boas-vindas.
-  - O logotipo do Sinacle.
+  - O logotipo do Signacle.
   - Imagens das áreas dos cursos.
 - Quando o mouse passa por cima das imagens dos cursos:
   - É exibido o nome do curso em texto.
   - Um clique na imagem direciona o usuário para a página de pesquisa.
 
 **Exemplo de visualização:**
-![Página Inicial do Sinacle](https://github.com/user-attachments/assets/35a0914a-8643-4882-9f5e-f7d41fff0b74)
+![Página Inicial do Signacle](https://github.com/user-attachments/assets/35a0914a-8643-4882-9f5e-f7d41fff0b74)
 
 
-## **Página de Pesquisa do Sinacle** 🔍
+## **Página de Pesquisa do Signacle** 🔍
 
 - No topo da página, será exibido um vídeo explicativo em Libras, ensinando como navegar no site.
 - Haverá botões na parte superior representando os tópicos das áreas do curso.
 - Ao clicar em um tópico, o site mostrará as palavras e imagens relacionadas a ele.
 
 **Exemplo de visualização:**
-![Página de Pesquisa do Sinacle](https://github.com/user-attachments/assets/62b9d22c-0c5a-4a2a-8e93-24e060ba0751)
+![Página de Pesquisa do Signacle](https://github.com/user-attachments/assets/62b9d22c-0c5a-4a2a-8e93-24e060ba0751)
 
 
 ## **Tecnologias Utilizadas no Front-End** 🎴
