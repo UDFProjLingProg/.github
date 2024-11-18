@@ -25,8 +25,8 @@ Pontos importantes:
   - Um vídeo de boas-vindas.
   - O logotipo do Signacle.
   - Imagens das áreas dos cursos.
-  - Não utilizar texto como referência, e sim, imagens.
-  - Não utilizar o **Scroll** do mouse.
+  - Não será utilizado texto como referência, e sim, **imagens**.
+  - Tem o intuito de não utilizar muito o **Scroll** do mouse.
 - Quando o mouse passa por cima das imagens dos cursos:
   - É exibido o nome do curso em texto.
   - Um clique na imagem direciona o usuário para a página de pesquisa.
@@ -58,7 +58,7 @@ Usuários podem editar os cursos, tópicos, matérias e deletar conjunto de iten
 
 ## **Cadastrar Itens**
 
-Tela onde a nova matéria vai ser registrada.  
+Local onde a nova matéria será registrada, anexando um icone, nome e o video da libra.
 
 ![Editar Conteudo da Materia](https://github.com/user-attachments/assets/36bfbade-a923-4158-9dc4-094187de76b6)
 
