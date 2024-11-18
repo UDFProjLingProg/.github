@@ -2,21 +2,21 @@
 
 O **Signacle** é um projeto que possui o objetivo de auxiliar o aprendizado e o ensino de **Libras (Língua Brasileira de Sinais)**, com foco em termos técnicos e vocabulário de disciplinas específicas dos cursos acadêmicos, utilizando **imagens** como o principal recurso de busca.
 
-
-## **Site** 💻
-**[Insira a URL do site aqui]**
-
 ## Repositórios 📁
 
-- [Signacle - Visualização de página](https://github.com/UDFProjLingProg/Signacle)
+- [Signacle - Visualização da página](https://github.com/UDFProjLingProg/Signacle)
 - [Signacle - API](https://github.com/UDFProjLingProg/signacle-api)
 
 ## **Descrição** 📄
 
 O **Signacle** é um site que possui um motor de busca voltado para consulta e gerenciamento de sinais em Libras, com destaque para suas representações visuais. O projeto visa solucionar a dificuldade de acesso a recursos atualizáveis e específicos de sinais relacionados às disciplinas acadêmicas.
 
-Desenvolvido por alunos da disciplina **Projeto de Linguagem de Programação**, do curso de Ciência da Computação da **UDF**.
+Desenvolvido na disciplina de **Projeto de Linguagem de Programação**, por alunos do 7° e 8° semestre do curso de Ciência da Computação do **UDF**, professora Kadidja Valeria e professor [Saulo Xavier de Souza](https://www.instagram.com/profsauloxavier/).
 
+## Objetivos 🎯
+
+- O Signacle tem o objetivo de deixar acessível os termos específicos das áreas de formação do UDF para pessoas surdas.
+- **Por exemplo:** Um estudante de Ciência da computação está cursando linguagem de programação e esqueceu o sinal de python, assim procurando no **Signacle** pelo curso, a seguir, matéria e o Termo pelos **icones** e **nome do termo**.
 
 ## **Página Inicial do Signacle** 🖥️
 
@@ -25,6 +25,8 @@ Pontos importantes:
   - Um vídeo de boas-vindas.
   - O logotipo do Signacle.
   - Imagens das áreas dos cursos.
+  - Não utilizar texto como referência, e sim, imagens.
+  - Não utilizar o **Scroll** do mouse.
 - Quando o mouse passa por cima das imagens dos cursos:
   - É exibido o nome do curso em texto.
   - Um clique na imagem direciona o usuário para a página de pesquisa.
@@ -41,6 +43,24 @@ Pontos importantes:
 
 **Exemplo de visualização:**
 ![Página de Pesquisa do Signacle](https://github.com/user-attachments/assets/62b9d22c-0c5a-4a2a-8e93-24e060ba0751)
+
+## **Cadastrar Usuário**
+
+Esta tela será exclusiva ao administrador e permitirá cadastrar usuários que poderão inserir itens no site.  
+
+![Cadastar Novo Usuario](https://github.com/user-attachments/assets/907a7554-0ddc-4c8f-b6c3-c42663c9d23a)
+
+## **Gerenciar Itens**
+
+Usuários podem editar os cursos, tópicos, matérias e deletar conjunto de itens.  
+
+![Gerênciamento libras](https://github.com/user-attachments/assets/95a9183e-8ca2-4eb0-a5f5-35de734c0048)
+
+## **Cadastrar Itens**
+
+Tela onde a nova matéria vai ser registrada.  
+
+![Editar Conteudo da Materia](https://github.com/user-attachments/assets/36bfbade-a923-4158-9dc4-094187de76b6)
 
 
 ## **Tecnologias Utilizadas no Front-End** 🎴
@@ -77,7 +97,6 @@ As seguintes ferramentas foram usadas na construção do **Back-End**:
 
 ## **Equipe Responsável** 👥
 
-- **Stakeholder:** [Nome do stakeholder responsável]
-- **Design:** [Nome(s) do(s) designer(s)]
-- **Front-End:** [Nome(s) dos desenvolvedores front-end]
-- **Back-End:** [Nome(s) dos desenvolvedores back-end]
+- **Stakeholder:** [Saulo Xavier de Souza](https://www.instagram.com/profsauloxavier/)
+- **Orientadora:** Kadidja Valeria
+- **Colaboradores:** Alunos do 7° e 8° semestre do curso de Ciência da Computação do **UDF** (2° semestre/2024)
