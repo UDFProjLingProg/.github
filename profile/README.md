@@ -9,7 +9,7 @@ O **Signacle** é um projeto que possui o objetivo de auxiliar o aprendizado e o
 
 ## **Descrição** 📄
 
-O **Signacle** é um site que possui um motor de busca voltado para consulta e gerenciamento de sinais em Libras, com destaque para suas representações visuais. O projeto visa solucionar a dificuldade de acesso a recursos atualizáveis e específicos de sinais relacionados às disciplinas acadêmicas.
+Repositório SIGNACLE - Sinais e-Clouds - É um ambiente on-line voltado ao armazenamento de fontes de conteúdos em Libras sobre assuntos presentes nos diversos contextos acadêmicos, para auxiliar o usuário no manejo de dicionários on-line de especialidade, orientando pesquisas documentais e dando suporte à aprendizagem científica de conteúdos terminológicos complexos por estudantes universitários surdos e ouvintes usuários da Libras.
 
 Desenvolvido na disciplina de **Projeto de Linguagem de Programação**, por alunos do 7° e 8° semestre do curso de Ciência da Computação do **UDF**, professora Kadidja Valeria e professor [Saulo Xavier de Souza](https://www.instagram.com/profsauloxavier/).
 
@@ -17,6 +17,13 @@ Desenvolvido na disciplina de **Projeto de Linguagem de Programação**, por alu
 
 - O Signacle tem o objetivo de deixar acessível os termos específicos das áreas de formação do UDF para pessoas surdas.
 - **Por exemplo:** Um estudante de Ciência da computação está cursando linguagem de programação e esqueceu o sinal de python, assim procurando no **Signacle** pelo curso, a seguir, matéria e o Termo pelos **icones** e **nome do termo**.
+
+## Página de Introdução
+
+Página de introdução do Signacle
+
+![Tela Inicial](https://github.com/user-attachments/assets/44541bf5-7cab-4652-b266-b43e71c769b7)
+
 
 ## **Página Inicial do Signacle** 🖥️
 
@@ -32,8 +39,8 @@ Pontos importantes:
   - Um clique na imagem direciona o usuário para a página de pesquisa.
 
 **Exemplo de visualização:**
-![Página Inicial do Signacle](https://github.com/user-attachments/assets/35a0914a-8643-4882-9f5e-f7d41fff0b74)
 
+![Tela do Signacle](https://github.com/user-attachments/assets/a5b965ae-de7e-4d41-a55a-633c9c3d75e1)
 
 ## **Página de Pesquisa do Signacle** 🔍
 
