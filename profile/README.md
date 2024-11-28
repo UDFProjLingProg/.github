@@ -8,7 +8,7 @@ O **FindSign** é um projeto que possui o objetivo de auxiliar o aprendizado e o
 - [FindSign - API](https://github.com/UDFProjLingProg/signacle-api)
 
 ## Link para o Site
-- [FindSign - Site](https://findsign.vercel.app/findsign)
+- [FindSign - Site](https://findsign.vercel.app/)
 
 ## **Descrição** 📄
 
