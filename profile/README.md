@@ -7,9 +7,12 @@ O **FindSign** é um projeto que possui o objetivo de auxiliar o aprendizado e o
 - [FindSign - Visualização da página](https://github.com/UDFProjLingProg/signacle-front)
 - [FindSign - API](https://github.com/UDFProjLingProg/signacle-api)
 
+## Link para o Site
+- [FindSign - Site](https://findsign.vercel.app/findsign)
+
 ## **Descrição** 📄
 
-Repositório SIGNACLE - Sinais e-Clouds - É um ambiente on-line voltado ao armazenamento de fontes de conteúdos em Libras sobre assuntos presentes nos diversos contextos acadêmicos, para auxiliar o usuário no manejo de dicionários on-line de especialidade, orientando pesquisas documentais e dando suporte à aprendizagem científica de conteúdos terminológicos complexos por estudantes universitários surdos e ouvintes usuários da Libras.
+Repositório **FindSign** - Sinais e-Clouds - É um ambiente on-line voltado ao armazenamento de fontes de conteúdos em Libras sobre assuntos presentes nos diversos contextos acadêmicos, para auxiliar o usuário no manejo de dicionários on-line de especialidade, orientando pesquisas documentais e dando suporte à aprendizagem científica de conteúdos terminológicos complexos por estudantes universitários surdos e ouvintes usuários da Libras.
 
 Desenvolvido na disciplina de **Projeto de Linguagem de Programação**, por alunos do 7° e 8° semestre do curso de Ciência da Computação do **UDF**, professora Kadidja Valeria e professor [Saulo Xavier de Souza](https://www.instagram.com/profsauloxavier/).
 
@@ -20,27 +23,31 @@ Desenvolvido na disciplina de **Projeto de Linguagem de Programação**, por alu
 
 ## Página de Introdução
 
-Página de introdução do FindSign
+Página de introdução do **FindSign**
 
-![Tela Inicial](https://github.com/user-attachments/assets/44541bf5-7cab-4652-b266-b43e71c769b7)
+![Tela Inicial](https://github.com/user-attachments/assets/0fd249d4-9ec3-46f2-b5d5-a504beaad2ef)
 
 
 ## **Página Inicial do FindSign** 🖥️
 
 Pontos importantes:
-- Na primeira página, será exibido:
+- **Na primeira página, será exibido:**
   - Um vídeo de boas-vindas.
   - O logotipo do FindSign.
   - Imagens das áreas dos cursos.
   - Não será utilizado texto como referência, e sim, **imagens**.
   - Tem o intuito de não utilizar muito o **Scroll** do mouse.
-- Quando o mouse passa por cima das imagens dos cursos:
+- **Quando o mouse passa por cima das imagens dos cursos:**
   - É exibido o nome do curso em texto.
   - Um clique na imagem direciona o usuário para a página de pesquisa.
 
 **Exemplo de visualização:**
 
-![Tela do FindSign](https://github.com/user-attachments/assets/a5b965ae-de7e-4d41-a55a-633c9c3d75e1)
+![Exemplo de visualização](https://github.com/user-attachments/assets/9cf73338-8988-4e88-9b96-6649cf0c2516)
+
+## Opção de Login
+
+![Login de Usuário](https://github.com/user-attachments/assets/6ca3d695-c8a4-4fd8-b744-2193a4668e85)
 
 ## **Página de Pesquisa do FindSign** 🔍
 
@@ -49,26 +56,26 @@ Pontos importantes:
 - Ao clicar em um tópico, o site mostrará as palavras e imagens relacionadas a ele.
 
 **Exemplo de visualização:**
-![Página de Pesquisa do FindSign](https://github.com/user-attachments/assets/62b9d22c-0c5a-4a2a-8e93-24e060ba0751)
+
+![Exemplo de visualização](https://github.com/user-attachments/assets/89c5cc31-df0b-4a2f-a7d0-b36920695054)
 
 ## **Cadastrar Usuário**
 
 Esta tela será exclusiva ao administrador e permitirá cadastrar usuários que poderão inserir itens no site.  
 
-![Cadastar Novo Usuario](https://github.com/user-attachments/assets/907a7554-0ddc-4c8f-b6c3-c42663c9d23a)
+![Cadastar Novo Usuario](https://github.com/user-attachments/assets/87e8cf3b-130a-49e3-8993-66219bffcdb5)
 
 ## **Gerenciar Itens**
 
 Usuários podem editar os cursos, tópicos, matérias e deletar conjunto de itens.  
 
-![Gerênciamento libras](https://github.com/user-attachments/assets/95a9183e-8ca2-4eb0-a5f5-35de734c0048)
+![Opções](https://github.com/user-attachments/assets/8e5ed71b-149c-47f1-a94a-a4b73bcf7ba0)
 
 ## **Cadastrar Itens**
 
-Local onde a nova matéria será registrada, anexando um icone, nome e o video da libra.
+Local onde o Tópico e a novo conteúdo será registrada, anexando um icone, nome e o video da libra.
 
-![Editar Conteudo da Materia](https://github.com/user-attachments/assets/36bfbade-a923-4158-9dc4-094187de76b6)
-
+![Cadastrar Itens e Tópicos](https://github.com/user-attachments/assets/eb2afe1a-c680-4d7b-a9d2-2aa9583f6383)
 
 ## **Tecnologias Utilizadas no Front-End** 🎴
 
