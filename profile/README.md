@@ -1,11 +1,11 @@
-# **Signacle** 👋
+# **FindSign** 👋
 
-O **Signacle** é um projeto que possui o objetivo de auxiliar o aprendizado e o ensino de **Libras (Língua Brasileira de Sinais)**, com foco em termos técnicos e vocabulário de disciplinas específicas dos cursos acadêmicos, utilizando **imagens** como o principal recurso de busca.
+O **FindSign** é um projeto que possui o objetivo de auxiliar o aprendizado e o ensino de **Libras (Língua Brasileira de Sinais)**, com foco em termos técnicos e vocabulário de disciplinas específicas dos cursos acadêmicos, utilizando **imagens** como o principal recurso de busca.
 
 ## Repositórios 📁
 
-- [Signacle - Visualização da página](https://github.com/UDFProjLingProg/signacle-front)
-- [Signacle - API](https://github.com/UDFProjLingProg/signacle-api)
+- [FindSign - Visualização da página](https://github.com/UDFProjLingProg/signacle-front)
+- [FindSign - API](https://github.com/UDFProjLingProg/signacle-api)
 
 ## **Descrição** 📄
 
@@ -15,22 +15,22 @@ Desenvolvido na disciplina de **Projeto de Linguagem de Programação**, por alu
 
 ## Objetivos 🎯
 
-- O Signacle tem o objetivo de deixar acessível os termos específicos das áreas de formação do UDF para pessoas surdas.
-- **Por exemplo:** Um estudante de Ciência da computação está cursando linguagem de programação e esqueceu o sinal de python, assim procurando no **Signacle** pelo curso, a seguir, matéria e o Termo pelos **icones** e **nome do termo**.
+- O FindSign tem o objetivo de deixar acessível os termos específicos das áreas de formação do UDF para pessoas surdas.
+- **Por exemplo:** Um estudante de Ciência da computação está cursando linguagem de programação e esqueceu o sinal de python, assim procurando no **FindSign** pelo curso, a seguir, matéria e o Termo pelos **icones** e **nome do termo**.
 
 ## Página de Introdução
 
-Página de introdução do Signacle
+Página de introdução do FindSign
 
 ![Tela Inicial](https://github.com/user-attachments/assets/44541bf5-7cab-4652-b266-b43e71c769b7)
 
 
-## **Página Inicial do Signacle** 🖥️
+## **Página Inicial do FindSign** 🖥️
 
 Pontos importantes:
 - Na primeira página, será exibido:
   - Um vídeo de boas-vindas.
-  - O logotipo do Signacle.
+  - O logotipo do FindSign.
   - Imagens das áreas dos cursos.
   - Não será utilizado texto como referência, e sim, **imagens**.
   - Tem o intuito de não utilizar muito o **Scroll** do mouse.
@@ -40,16 +40,16 @@ Pontos importantes:
 
 **Exemplo de visualização:**
 
-![Tela do Signacle](https://github.com/user-attachments/assets/a5b965ae-de7e-4d41-a55a-633c9c3d75e1)
+![Tela do FindSign](https://github.com/user-attachments/assets/a5b965ae-de7e-4d41-a55a-633c9c3d75e1)
 
-## **Página de Pesquisa do Signacle** 🔍
+## **Página de Pesquisa do FindSign** 🔍
 
 - No topo da página, será exibido um vídeo explicativo em Libras, ensinando como navegar no site.
 - Haverá botões na parte superior representando os tópicos das áreas do curso.
 - Ao clicar em um tópico, o site mostrará as palavras e imagens relacionadas a ele.
 
 **Exemplo de visualização:**
-![Página de Pesquisa do Signacle](https://github.com/user-attachments/assets/62b9d22c-0c5a-4a2a-8e93-24e060ba0751)
+![Página de Pesquisa do FindSign](https://github.com/user-attachments/assets/62b9d22c-0c5a-4a2a-8e93-24e060ba0751)
 
 ## **Cadastrar Usuário**
 
